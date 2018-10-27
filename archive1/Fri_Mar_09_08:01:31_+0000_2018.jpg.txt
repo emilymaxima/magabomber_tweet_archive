@@ -1,0 +1,7 @@
+ 
+
+TNS Sek:
+
+. STN : Pe uns SE
+| RST i 4
+
